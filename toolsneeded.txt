@@ -1,0 +1,41 @@
+win32api python script (GUI automation)
+selenium (Browser app automation and email reader)
+MariaDB (Profiles storage)
+Js2Py (Javascript JSON translation to the python script)
+Surfshark VPN for changing location virtually
+В селениум има функцията за използване на различното IP (could come in handy)
+https://www.mail.com/ - Email Provider
+pyshadow module - за работа с shadowDOM елементи
+CAPTCHA resolver with regex and eval() 
+Or alternitavely use a modified Chrome browser to bypass CAPTCHAS
+-Distil networks & Imperva
+|
+|
+|
+|
+V
+git-repo:ultrafunkamsterdam/undetected-chromedriver
+For crafty stuff:https://www.blackhatworld.com/
+
+I'm not robot captcha clicker extension
+Clickbank for affiliate marketing products
+
+ZLibrary - site for books(Only in Tor)
+
+IP Rotator:https://github.com/Ge0rg3/requests-ip-rotator/tree/main/requests_ip_rotator
+Free Proxies 
+- https://free-proxy-list.net/
+- https://freeproxy.win/
+- https://www.socks-proxy.net/
+- https://www.us-proxy.org/
+- https://www.sslproxies.org/ - ATTENTION!
+- https://free-proxy-list.net/anonymous-proxy.html - ATTENTION!
+
+For GIT:https://dev.to/g_abud/advanced-git-reference-1o9j
+https://proxyaz.com/rotating-premium-residential-proxy
+
+TODO:
+Cybersecurity protection for MariaDB
+
+xspjfrgs-rotate
+em4x009ttm5w
